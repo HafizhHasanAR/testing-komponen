@@ -1,30 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
 
-.p-share-1 {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 12px;
-  line-height: 14px;
-
-  color: #000000;
-}
-.p-share-2 {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 14px;
-
-  color: #000000;
-}
-.p-share-2 {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 22px;
-  /* identical to box height */
-
-  color: #000000;
+.report-btn,
+button {
+  border: 0px hidden #ffffff;
+  background-color: #ffffff;
 }
