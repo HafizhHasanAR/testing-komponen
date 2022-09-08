@@ -1,40 +1,27 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
-.read-container {
-  background-color: #e5e5e5;
-  /* height: 110px;
-  width: 670px; */
-  border-radius: 8px;
-  /* margin: 14px 0px 0px 213px;
-  padding: 19px 26px 30px 25px; */
-  display: flex;
+.more-info-container {
+  /* padding: 40px 0px 0px 213px; */
 }
-.read-p-1 {
+
+.more-info-p {
   font-family: "Lato";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 14px;
-  line-height: 17px;
-  /* identical to box height */
+  line-height: 22px;
+  /* or 157% */
 
   color: #000000;
+  width: 301px;
 }
 a {
-  color: #000000;
   text-decoration: none;
 }
-a:focus {
+.more-info-a {
   color: #ca0000;
-  text-decoration: none;
-}
-.read-1,
-.read-2,
-.read-3 {
   font-family: "Lato";
   font-style: normal;
-  font-weight: 700;
-  font-size: 12px;
-  line-height: 16px;
-  /* or 133% */
-
-  color: #000000;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
 }
