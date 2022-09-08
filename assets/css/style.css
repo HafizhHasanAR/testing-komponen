@@ -1,27 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
-.tag-detail-1 {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 17px;
-  border-radius: 8px;
-  width: 130px;
-  height: 40px;
-  background-color: #ca0000;
-}
 
-.tag-detail {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 700;
+.input-serch-index {
+  width: 536px;
+  height: 44px;
+  border-radius: 8px;
+  background-color: #e5e5e5;
+  border: 1px solid #e5e5e5;
+  font-family: Lato;
   font-size: 14px;
   line-height: 17px;
-  border-radius: 8px;
-  width: 130px;
-  height: 40px;
-  background-color: #e5e5e5;
 }
-a {
-  text-decoration: none;
+.serch-container {
+}
+.button-serch-index {
+  width: 124px;
+  height: 44px;
+  background: #ca0000;
+  border-radius: 8px;
+  border: none;
+  color: #ffffff;
 }
