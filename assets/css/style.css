@@ -1,22 +1,29 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
 
-.input-serch-index {
-  width: 536px;
-  height: 44px;
-  border-radius: 8px;
-  background-color: #e5e5e5;
-  border: 1px solid #e5e5e5;
-  font-family: Lato;
-  font-size: 14px;
-  line-height: 17px;
+.sosialmedia-container {
+  display: flex;
 }
-.serch-container {
+.profile-teks {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
 }
-.button-serch-index {
-  width: 124px;
-  height: 44px;
-  background: #ca0000;
-  border-radius: 8px;
-  border: none;
-  color: #ffffff;
+.p-teks-2 {
+  color: #999999;
+}
+.p-share {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+}
+.p-mount {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
 }
