@@ -1,9 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
 
-.avatar-credit-container {
-  /* padding: 34px 0px 0px 217px; */
-}
-.credit-p-1 {
+.p-share-1 {
   font-family: "Lato";
   font-style: normal;
   font-weight: 700;
@@ -12,8 +9,7 @@
 
   color: #000000;
 }
-
-.credit-p-2 {
+.p-share-2 {
   font-family: "Lato";
   font-style: normal;
   font-weight: 400;
@@ -22,6 +18,13 @@
 
   color: #000000;
 }
-.p-grey {
-  color: #999999;
+.p-share-2 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #000000;
 }
