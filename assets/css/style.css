@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap");
+.index-kanal-container {
+  /* width: 301px;
+  height: 516px; */
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  /* margin: 40px 0px 0px 213px; */
+}
+.index-kanal-p {
+  font-family: "Prompt";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 14px;
+  /* identical to box height, or 88% */
+  padding: 26px 0px 0px 20px;
+  /* Main 2 */
+
+  color: #333333;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.index-kanal-container a:focus {
+  color: red;
+}
+.index-kanal-collume {
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #e5e5e5;
+}
+.p-kanal-1 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 53px;
+  margin: 0px;
+  /* or 379% */
+  /* padding: 0px 0px 0px 19px; */
+}
+.img-kanal {
+  width: 6.18px;
+  height: 10px;
+  /* margin: 23px 0px 0px 222px; */
+}
+.index-kanal-collume-2 {
+  /* width: 299px;
+  height: 53px; */
+  background-color: #ffffff;
+  margin: -48px 0px 0px 0px;
+}
+.p-kanal-2 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 53px;
+  /* or 379% */
+  /* padding: 0px 0px 0px 19px; */
+}
+.img-kanal-2 {
+  /* width: 6.18px; */
+  /* height: 10px; */
+}
